@@ -1,0 +1,1 @@
+This is the README file for the my-git-repo project following the tutorial in book: Ry's Git Tutorial by Ryan Hodson (available on Kindle)
